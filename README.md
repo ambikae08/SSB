@@ -92,7 +92,3 @@ RESULT:
 
 Thus, the SSB-SC-AM Modulation and Demodulation is experimentally done and the output is verified.
 
-
-
-
-
